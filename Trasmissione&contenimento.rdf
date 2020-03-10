@@ -1,0 +1,181 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S2589750020300558">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:25897500"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leung</foaf:surname>
+                        <foaf:givenName>Gabriel M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leung</foaf:surname>
+                        <foaf:givenName>Kathy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:title>Crowdsourcing data to mitigate epidemics</dc:title>
+        <dc:date>2/2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S2589750020300558</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-03-10 17:52:04</dcterms:dateSubmitted>
+        <bib:pages>S2589750020300558</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:25897500">
+        <dc:title>The Lancet Digital Health</dc:title>
+        <dc:identifier>DOI 10.1016/S2589-7500(20)30055-8</dc:identifier>
+        <dcterms:alternative>The Lancet Digital Health</dcterms:alternative>
+        <dc:identifier>ISSN 25897500</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.thelancet.com/article/S2589750020300558/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-03-10 17:52:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencemag.org/lookup/doi/10.1126/science.aba9757">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0036-8075,%201095-9203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chinazzi</foaf:surname>
+                        <foaf:givenName>Matteo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenName>Jessica T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ajelli</foaf:surname>
+                        <foaf:givenName>Marco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gioannini</foaf:surname>
+                        <foaf:givenName>Corrado</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litvinova</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merler</foaf:surname>
+                        <foaf:givenName>Stefano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pastore y Piontti</foaf:surname>
+                        <foaf:givenName>Ana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mu</foaf:surname>
+                        <foaf:givenName>Kunpeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossi</foaf:surname>
+                        <foaf:givenName>Luca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Kaiyuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Viboud</foaf:surname>
+                        <foaf:givenName>Cécile</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xiong</foaf:surname>
+                        <foaf:givenName>Xinyue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Hongjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Halloran</foaf:surname>
+                        <foaf:givenName>M. Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Longini</foaf:surname>
+                        <foaf:givenName>Ira M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vespignani</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak</dc:title>
+        <dcterms:abstract>Motivated by the rapid spread of COVID-19 in Mainland China, we use a global metapopulation disease transmission model to project the impact of travel limitations on the national and international spread of the epidemic. The model is calibrated based on internationally reported cases, and shows that at the start of the travel ban from Wuhan on 23 January 2020, most Chinese cities had already received many infected travelers. The travel quarantine of Wuhan delayed the overall epidemic progression by only 3 to 5 days in Mainland China, but has a more marked effect at the international scale, where case importations were reduced by nearly 80% until mid February. Modeling results also indicate that sustained 90% travel restrictions to and from Mainland China only modestly affect the epidemic trajectory unless combined with a 50% or higher reduction of transmission in the community.</dcterms:abstract>
+        <dc:date>2020-03-06</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencemag.org/lookup/doi/10.1126/science.aba9757</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-03-10 18:03:49</dcterms:dateSubmitted>
+        <bib:pages>eaba9757</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0036-8075,%201095-9203">
+        <dc:title>Science</dc:title>
+        <dc:identifier>DOI 10.1126/science.aba9757</dc:identifier>
+        <dcterms:alternative>Science</dcterms:alternative>
+        <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>
